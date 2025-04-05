@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+geopandas
+shap
+folium
+joblib
+tensorflow
+tensorflow-hub
+geopy
+requests
+xgboost
+lightgbm
+catboost
+scikit-learn
